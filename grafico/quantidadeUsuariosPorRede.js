@@ -48,6 +48,7 @@ async function quantidadeusuarios(){
             }
         }
     }
+
     
     const grafico = document.createElement('div')
     grafico.className = 'grafico'
